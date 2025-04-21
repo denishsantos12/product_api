@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.example.productapi.ProductApiApplication
+Implementation-Title: product-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Spring Boot
+Created-By: Maven
+Build-Jdk: 17
